@@ -1,6 +1,6 @@
 # Backpack for Laravel - Community Forum
 
-If you have an idea or question and don't know where to post is, this is the place. This is where we recommend you:
+If you have an idea or question and don't know where to post is, this is the place:
 - 💡 [post an improvement idea, feature request](https://github.com/Laravel-Backpack/ideas/issues/new) etc.
 - 🦟 [report a bug](https://github.com/Laravel-Backpack/ideas/issues/new) (we'll move it to the right repo);
 - ❓ [ask for help](https://github.com/Laravel-Backpack/ideas/discussions/new?category=general) (keep it reasonable though);
