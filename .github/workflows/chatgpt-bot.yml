@@ -1,7 +1,7 @@
 name: ChatGPT Bot
 
 on:
-  issue:
+  issues:
     types:
       - created
   issue_comment:
