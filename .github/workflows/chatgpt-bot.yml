@@ -1,0 +1,24 @@
+name: ChatGPT Bot
+
+on:
+  issue:
+    types:
+      - created
+  issue_comment:
+    types:
+      - created
+  discussion:
+    types:
+      - created
+  discussion_comment:
+    types:
+      - created
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: austenstone/chatgpt-bot@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
