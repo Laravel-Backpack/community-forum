@@ -1,5 +1,7 @@
 # Backpack for Laravel - Community Forum
 
+Before posting, **please use the [organisation-wide search](https://github.com/search?q=org%3ALaravel-Backpack%20something&type=issues)**. This is the recommended way to search for Backpack bugs / ideas / etc, because it brings together results from issues, PRs, discussions, commits... _everything_! Please remember to choose Issues / PRs / Discussions in the results page sidebar, to see the results for each kind of content.
+
 If you have an idea or question and don't know where to post is, this is the place:
 - 💡 [post an improvement idea, feature request](https://github.com/Laravel-Backpack/ideas/issues/new) etc.
 - 🦟 [report a bug](https://github.com/Laravel-Backpack/ideas/issues/new) (we'll move it to the right repo);
