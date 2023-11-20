@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation issue
+    url: https://github.com/laravel-backpack/docs
+    about: Please open an issue or pull request in our docs repository.
+  - name: How Do I _____?
+    url: https://github.com/Laravel-Backpack/community-forum/discussions
+    about: Please use Discussions in our community forum. We've been blessed with a great community, that is happy to help.
+  - name: Feature Request or Idea
+    url: https://github.com/Laravel-Backpack/community-forum/discussions/new
+    about: If you have an idea, request or want to show something you did, use Discussion in our Community Forum. This is where we all hang out.
