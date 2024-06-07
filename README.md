@@ -10,7 +10,7 @@ If you have an idea or question and don't know where to post is, this is the pla
 ---
 
 All other Backpack repos are used for task management - our goal is to get them to zero issues, zero PRs. 
-This repo is different. In this repo... anything goes. This community forum will completely replace our Gitter chatroom, which was a mess. In here, we can:
+This repo is different. In this repo... anything goes. In here, we can:
 - keep 💬 _support questions_ ([Discussions](https://github.com/Laravel-Backpack/ideas/discussions)) separate from 🔘 _feature requests and bugs_ ([Issues](https://github.com/Laravel-Backpack/ideas/issues));
 - have an open, searchable record of conversations; one answer today might help someone in the future too;
 - turn feedback, insight and ideas into an action plan or todo, because the conversation can include more people (threads ftw);
@@ -18,6 +18,6 @@ This repo is different. In this repo... anything goes. This community forum will
 
 ---
 
-**Help us make this forum a better place.** Interact with us and other developers. Give your 2 cents. Report what you find. Teach others what you learn. Show others what you build. We want to learn from each other and collaborate, to make all our lives better. **The only rule we have is... be kind.**
+**Help us make this forum a better place.** Interact with us and other developers. Give your 2 cents. Report what you find. Teach others what you learn. Show others what you build. We want to learn from each other and collaborate, to make all our lives better. **The only rule we have is... be kind. Ok, fine, two rules: Only talk about Backpack-related topics. General PHP, Laravel or JS stuff is better addressed in other forums.**
 
 Let's have fun and build cool shit. See you in the comments.
